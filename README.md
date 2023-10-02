@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anubha2098
-- 👀 I’m interested in Machine Learning and Software Development!
-- 🌱 I’m currently learning full-stack development and human-centered computing.
+- 👀 I’m interested in Software Development!
+- 🌱 I’m currently learning full-stack development.
 - 💞️ I’m looking to collaborate on any interesting project!
 - 📫 You can reach me at anubha2098@gmail.com
 
